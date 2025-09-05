@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(114, 28, 212);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  margin: o;
+
+}
+button {
+    background-color: burlywood;
+    color: aliceblue;
+    font-family: " Bai jamjuree", sans-serif ;
+
+}
+
+.passo {
+     display: none;
+}
